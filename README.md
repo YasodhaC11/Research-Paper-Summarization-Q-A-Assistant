@@ -4,6 +4,11 @@
 An AI-powered web application that allows users to **upload research papers**, **generate concise summaries**, and **ask context-specific questions** about the content using a Retrieval-Augmented Generation (RAG) pipeline built with open-source LLMs.
 
 ---
+GitHub: https://github.com/YasodhaC11/Research-Paper-Summarization-Q-A-Assistant
+
+Live Demo: https://research-paper-summarization-q-a-assistant-c39nd97xoegsvhtlbm8.streamlit.app/
+
+---
 
 ## 🎯 Features
 

@@ -5,13 +5,6 @@ An AI-powered web application that allows users to **upload research papers**, *
 
 ---
 
-## 🚀 Demo
-
-🔗 Live App: [https://research-summary.streamlit.app](https://research-summary.streamlit.app)  
-🔗 GitHub Repo: [https://github.com/yourusername/research-paper-chatbot](https://github.com/yourusername/research-paper-chatbot)
-
----
-
 ## 🎯 Features
 
 - 📥 **PDF Upload**: Upload research papers in `.pdf` format
